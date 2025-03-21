@@ -22,7 +22,7 @@ int main()
     left_90();
     wait(250);
     backward(1250,800);
-	  right(500,900);
+    right(500,900);
     wait(1000);
     
     //grab potato
